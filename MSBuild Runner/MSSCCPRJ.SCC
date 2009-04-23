@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[MSBuild Runner.vbproj]
+SCC_Aux_Path = http://vault.wise.local/VaultService|server:7
+SCC_Project_Name = $/MSBuild Runner/MSBuild Runner
